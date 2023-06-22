@@ -29,14 +29,12 @@ I have built the basic website but I definitely will keep working on the website
 
 Here's a walkthrough of implemented features:
 
-
-
 https://github.com/sefat22/web102_prework/assets/108604994/e235e80e-574d-4f9a-a79c-cb7b65cee476
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW91MmFjejdnY2V5OGprY3ZrZjY1Yjd1Ym1pY256bGJrdmJwYnJpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hB3df2K8Hr3F2P8EqH/giphy.gif
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with Screen Record in Macbook  
+GIF created with Licecap
+
 
 ## Notes
 
