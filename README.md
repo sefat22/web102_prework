@@ -19,27 +19,28 @@ The following **optional** features are implemented:
 
 I have built the basic website but I definitely will keep working on the website to add more features. Some of my ideas that I would like to implement in the future in the website are:
 
-* [x] Create an option to raise money on the website/ Make payment option available
-* [x] Have a contact option with the company on the website.
+* [x] Create an option to raise money on the website/ Make payment option available. 
+* [x] Have a contact option with the company on the website. 
+
+
 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
+
+
+https://github.com/sefat22/web102_prework/assets/108604994/e235e80e-574d-4f9a-a79c-cb7b65cee476
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Screen Record in Macbook  
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+I have definitely learned a lot while working on the website but it was definitely a really fun website to work on. I struggled quite a lot while working on the filtering option, but was able to work it out. 
 ## License
 
     Copyright [2023] [Sefat Monzor]
